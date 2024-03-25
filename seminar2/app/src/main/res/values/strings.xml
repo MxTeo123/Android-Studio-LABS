@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">seminar2</string>
+    <string name="introduceti_textul">Introduceti textul</string>
+    <string name="textul_din_text">textul din text</string>
+    <string name="apasa_ma">apasa-ma</string>
+    <string name="bifreaza_ma_boss">bifreaza-ma boss</string>
+    <string name="de_bifat">De bifat</string>
+    <string name="bifat">BIFAT</string>
+    <string name="optiune1">optiune1</string>
+    <string name="optiune2">optiune2</string>
+    <string name="optiune3">optiune3</string>
+    <string name="afla_cate_de_smecher_esti">afla cate de smecher esti</string>
+</resources>

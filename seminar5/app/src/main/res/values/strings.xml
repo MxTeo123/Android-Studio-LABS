@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">seminar5</string>
+    <string name="nume_magazin">Nume magazin:</string>
+    <string name="numar_anagajati">Numar anagajati:</string>
+    <string name="creeaza_magazin">Creeaza magazin!</string>
+    <string name="adauga_magazin">Adauga magazin!</string>
+</resources>

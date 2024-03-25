@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">seminar7</string>
+        <string-array name="spinner_items">
+            <item>1 zi</item>
+            <item>5 zile</item>
+        </string-array>
+</resources>

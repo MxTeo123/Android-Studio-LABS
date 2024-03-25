@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">seminar1</string>
+    <string name="mesaj_intampinare">Hello World!</string>
+    <string name="mesaj">Aplicatia a fost deschisa!</string>
+    <string name="apasa">Apasa!</string>
+    <string name="apasa2">Esti smecher?</string>
+</resources>

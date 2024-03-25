@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">seminar10fix</string>
+    <string name="salveaza_setari_noi">Salveaza setari noi</string>
+    <string name="introdu_dimensiunea_textului1">Introdu dimensiunea textului1</string>
+    <string name="introdu_culoarea_fundalului">Introdu culoarea fundalului</string>
+    <string name="salveaza_preferinte">Salveaza preferinte</string>
+    <string name="adauga_obiecte_noi_in_lv">Adauga obiecte noi in LV</string>
+    <string name="resteaza_obiectiele_din_lv">Resteaza obiectiele din LV</string>
+</resources>

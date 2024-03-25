@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="@string/textul_din_text"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/editTextIntrodus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/introduceti_textul"
+        android:minHeight="48dp"/>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bifreaza_ma_boss"
+        android:id="@+id/checkboxBifeaza"
+        android:checked="false"/>
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="1"
+        android:id="@+id/rbStele" />
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchView"
+        android:textOff="@string/de_bifat"
+        android:textOn="@string/bifat"/>
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rdGrup">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/optiune1" />
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/optiune2" />
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/optiune3" />
+    </RadioGroup>
+    <Button
+        android:id="@+id/btnApasa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:text="@string/afla_cate_de_smecher_esti" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:id="@+id/tvRezultat"/>
+
+</LinearLayout>
